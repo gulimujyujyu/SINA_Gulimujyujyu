@@ -2,3 +2,4 @@
 #SAE setting
 *.dat
 *.yaml
+.DS_STORE
